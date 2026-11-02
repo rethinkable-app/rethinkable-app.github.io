@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["J9ZKTHWR9U.com.rethinkable.app"],
+        "components": [
+          { "/": "/plaid/*", "comment": "Banks hand you back to Rethinkable here after you sign in with them (Plaid)" }
+        ]
+      }
+    ]
+  }
+}
